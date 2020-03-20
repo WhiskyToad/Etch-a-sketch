@@ -1,0 +1,21 @@
+.container {
+    display: grid;
+    width: 960px;
+    height: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.cell {
+    background-color: black;
+}
+.fill {
+    background-color: white;
+}
+.button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 32px;
+    font-size: large;
+    background-color:teal;
+}
